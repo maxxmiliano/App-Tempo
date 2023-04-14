@@ -7,17 +7,38 @@
 }
 
 body {
-    background-image: url(/image/Climate-Change.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-
-}
-
-.container {
   height: 100vh;
   width: 100vw;
   display: flex;
   justify-content: center;
   align-items:center;
-  flex-direction: column;
+  background-image: url(/image/Climate-Change.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.container {
+  background: black;
+  opacity: 0.5;
+  border-radius: 12px;
+  padding: 20px;
+  color: #fff;
+  font-size: 25px;
+}
+input {
+  border-radius: 8px;
+  padding: 10px;
+  outline: none;
+  font-size: 20px;
+}
+button {
+  
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 20px;
+  outline: none;
+}
+.busca {
+  width: 20px;
 }
