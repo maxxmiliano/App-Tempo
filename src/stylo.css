@@ -12,13 +12,14 @@ body {
   display: flex;
   justify-content: center;
   align-items:center;
-  background-image: url(/image/Climate-Change.jpg);
+  /*background-image: url(/image/Climate-Change.jpg);*/
   background-size: cover;
   background-repeat: no-repeat;
 
 }
 
 .container {
+  position: absolute;
   background: black;
   opacity: 0.5;
   border-radius: 12px;
