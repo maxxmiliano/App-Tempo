@@ -87,3 +87,6 @@ button {
   font-size: 2rem;
   font-weight: bold;
 }
+.previsao {
+  text-transform: capitalize;
+}
