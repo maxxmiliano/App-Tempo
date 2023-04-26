@@ -77,13 +77,13 @@ button {
   align-items: center;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #fff;
+  color: #07d2f5;
   
   font-weight: bold;
 }
 .humid {
   margin-bottom: 20px;
-  color:#fff;
+  color:#f46805;
   font-size: 2rem;
   font-weight: bold;
 }
